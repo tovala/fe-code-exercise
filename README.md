@@ -2,7 +2,7 @@
 Code challenge for FE engineers.
 
 ## Description:
-Create a single-page react application that interacts with the github public API and displays the pull requests from this repo in a list. Each pull request should show the following info:
+Create a single-page react application that interacts with the github public API and displays the pull requests from this repo (https://github.com/tovala/fe-code-exercise) in a list. Each pull request should show the following info:
 
 - Title
 - Date Opened
